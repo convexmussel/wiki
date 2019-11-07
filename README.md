@@ -1,3 +1,19 @@
+
+# Wiki test
+
+[modified simplex method](https://github.com/convexmussel/wiki/blob/master/simplex.md)
+
+
+
+
+
+
+
+
+
+
+
+
 # Thorlabs APT compatibility library in Python
 
 This module provides Thorlabs APT controller compatibility to all PCs that run Python.
