@@ -15,14 +15,14 @@ L,M and H are the initial vertices of the vertex, L being the worst and H being 
 ![Simplex path 2d](/docs/images/simplex2d.gif)
 ![Simplex path 3d](/docs/images/simplex3d.gif)
 
-![test](/docs/Equations/centroid.png)
+![test](https://github.com/convexmussel/wiki/blob/master/Equations/centroid.png)
 
-![test](/docs/Equations/Reflection.PNG)
+![test](https://github.com/convexmussel/wiki/blob/master/Equations/Reflection.PNG)
 
-![test](/docs/Equations/Expention.PNG)
-![test](/docs/Equations/incontraction.PNG)
-![test](/docs/Equations/incentroid.PNG)
-![test](/docs/Equations/inreflection.PNG)
-![test](/docs/Equations/excontraction.PNG)
-![test](/docs/Equations/excentroid.PNG)
-![test](/docs/Equations/exreflection.PNG)
+![test](https://github.com/convexmussel/wiki/blob/master/Equations/Expention.PNG)
+![test](https://github.com/convexmussel/wiki/blob/master/Equations/incontraction.PNG)
+![test](https://github.com/convexmussel/wiki/blob/master/Equations/incentroid.PNG)
+![test](https://github.com/convexmussel/wiki/blob/master/Equations/inreflection.PNG)
+![test](https://github.com/convexmussel/wiki/blob/master/Equations/excontraction.PNG)
+![test](https://github.com/convexmussel/wiki/blob/master/Equations/excentroid.PNG)
+![test](https://github.com/convexmussel/wiki/blob/master/Equations/exreflection.PNG)
